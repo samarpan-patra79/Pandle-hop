@@ -1,0 +1,21 @@
+{
+  "name": "PandalHop",
+  "short_name": "PandalHop",
+  "description": "The festive companion app for exploring Durga Puja Pandals in West Bengal.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF8F0",
+  "theme_color": "#8B1A1A",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
